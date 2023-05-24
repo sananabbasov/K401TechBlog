@@ -2,24 +2,31 @@
 using Microsoft.AspNetCore.Mvc;
 using TechBlog.WebUI.Data;
 using TechBlog.WebUI.Models;
+using TechBlog.WebUI.ViewModels;
 
 namespace TechBlog.WebUI.Controllers;
 
 public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
-    private readonly GetTime _getTime;
+    private readonly AppDbContext _context;
 
-    public HomeController(ILogger<HomeController> logger, GetTime getTime)
+
+    public HomeController(ILogger<HomeController> logger, AppDbContext context)
     {
         _logger = logger;
-        _getTime = getTime;
+        _context = context;
     }
 
     public IActionResult Index()
     {
-        ViewBag.Test = _getTime.GetCurrentTime();
-        return View();
+        var articles = _context.Articles.ToList();
+        var tags = _context.Tags.ToList();
+        HomeVM vm = new()
+        {
+
+        };
+        return View(vm);
     }
 
     public IActionResult Privacy()

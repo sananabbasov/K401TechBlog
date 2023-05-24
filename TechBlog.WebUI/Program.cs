@@ -8,13 +8,12 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-builder.Services.AddSingleton<GetTime>();
 
 string connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
-builder.Services.AddDbContext<AppDbContext>(options =>
+builder.Services.AddDbContext<AppDbContext>(o =>
 {
-    options.UseSqlServer(connectionString);
+    o.UseSqlServer(connectionString);
 });
 
 
