@@ -1,0 +1,309 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/obj/Debug/net7.0/scopedcss/projectbundle/TechBlog.WebUI.bundle.scp.css",
+      "PackagePath": "staticwebassets/TechBlog.WebUI.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/css/bootstrap.css",
+      "PackagePath": "staticwebassets/assets/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/css/colors.css",
+      "PackagePath": "staticwebassets/assets/css/colors.css"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/css/font-awesome.min.css",
+      "PackagePath": "staticwebassets/assets/css/font-awesome.min.css"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/css/responsive.css",
+      "PackagePath": "staticwebassets/assets/css/responsive.css"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/css/version/tech.css",
+      "PackagePath": "staticwebassets/assets/css/version/tech.css"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/fonts/FontAwesome.otf",
+      "PackagePath": "staticwebassets/assets/fonts/FontAwesome.otf"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/fonts/fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome-webfont.eot"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/fonts/fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome-webfont.svg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/fonts/fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/fonts/fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome-webfont.woff"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/fonts/fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets/assets/fonts/fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/images/ads-bg.png",
+      "PackagePath": "staticwebassets/assets/images/ads-bg.png"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/images/apple-touch-icon.png",
+      "PackagePath": "staticwebassets/assets/images/apple-touch-icon.png"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/images/arrow.png",
+      "PackagePath": "staticwebassets/assets/images/arrow.png"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/images/favicon.ico",
+      "PackagePath": "staticwebassets/assets/images/favicon.ico"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/images/footer.png",
+      "PackagePath": "staticwebassets/assets/images/footer.png"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/images/hover.png",
+      "PackagePath": "staticwebassets/assets/images/hover.png"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/images/loader.gif",
+      "PackagePath": "staticwebassets/assets/images/loader.gif"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/images/menubg.jpg",
+      "PackagePath": "staticwebassets/assets/images/menubg.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/images/version/tech-footer-logo.png",
+      "PackagePath": "staticwebassets/assets/images/version/tech-footer-logo.png"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/images/version/tech-logo.png",
+      "PackagePath": "staticwebassets/assets/images/version/tech-logo.png"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/images/videohover.png",
+      "PackagePath": "staticwebassets/assets/images/videohover.png"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/assets/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/js/custom.js",
+      "PackagePath": "staticwebassets/assets/js/custom.js"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/js/jquery.min.js",
+      "PackagePath": "staticwebassets/assets/js/jquery.min.js"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/js/tether.min.js",
+      "PackagePath": "staticwebassets/assets/js/tether.min.js"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/style.css",
+      "PackagePath": "staticwebassets/assets/style.css"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/author.jpg",
+      "PackagePath": "staticwebassets/assets/upload/author.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/author_01.jpg",
+      "PackagePath": "staticwebassets/assets/upload/author_01.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/author_02.jpg",
+      "PackagePath": "staticwebassets/assets/upload/author_02.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/banner_01.jpg",
+      "PackagePath": "staticwebassets/assets/upload/banner_01.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/banner_02.jpg",
+      "PackagePath": "staticwebassets/assets/upload/banner_02.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/banner_03.jpg",
+      "PackagePath": "staticwebassets/assets/upload/banner_03.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/banner_07.jpg",
+      "PackagePath": "staticwebassets/assets/upload/banner_07.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/tech_01.jpg",
+      "PackagePath": "staticwebassets/assets/upload/tech_01.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/tech_02.jpg",
+      "PackagePath": "staticwebassets/assets/upload/tech_02.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/tech_03.jpg",
+      "PackagePath": "staticwebassets/assets/upload/tech_03.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/tech_blog_01.jpg",
+      "PackagePath": "staticwebassets/assets/upload/tech_blog_01.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/tech_blog_02.jpg",
+      "PackagePath": "staticwebassets/assets/upload/tech_blog_02.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/tech_blog_03.jpg",
+      "PackagePath": "staticwebassets/assets/upload/tech_blog_03.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/tech_blog_04.jpg",
+      "PackagePath": "staticwebassets/assets/upload/tech_blog_04.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/tech_blog_05.jpg",
+      "PackagePath": "staticwebassets/assets/upload/tech_blog_05.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/tech_blog_06.jpg",
+      "PackagePath": "staticwebassets/assets/upload/tech_blog_06.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/tech_blog_07.jpg",
+      "PackagePath": "staticwebassets/assets/upload/tech_blog_07.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/tech_blog_08.jpg",
+      "PackagePath": "staticwebassets/assets/upload/tech_blog_08.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/tech_blog_09.jpg",
+      "PackagePath": "staticwebassets/assets/upload/tech_blog_09.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/tech_blog_10.jpg",
+      "PackagePath": "staticwebassets/assets/upload/tech_blog_10.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/tech_menu_01.jpg",
+      "PackagePath": "staticwebassets/assets/upload/tech_menu_01.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/tech_menu_02.jpg",
+      "PackagePath": "staticwebassets/assets/upload/tech_menu_02.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/tech_menu_03.jpg",
+      "PackagePath": "staticwebassets/assets/upload/tech_menu_03.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/tech_menu_04.jpg",
+      "PackagePath": "staticwebassets/assets/upload/tech_menu_04.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/tech_menu_05.jpg",
+      "PackagePath": "staticwebassets/assets/upload/tech_menu_05.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/tech_menu_06.jpg",
+      "PackagePath": "staticwebassets/assets/upload/tech_menu_06.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/tech_menu_07.jpg",
+      "PackagePath": "staticwebassets/assets/upload/tech_menu_07.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/tech_menu_08.jpg",
+      "PackagePath": "staticwebassets/assets/upload/tech_menu_08.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/tech_menu_09.jpg",
+      "PackagePath": "staticwebassets/assets/upload/tech_menu_09.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/tech_menu_10.jpg",
+      "PackagePath": "staticwebassets/assets/upload/tech_menu_10.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/tech_menu_11.jpg",
+      "PackagePath": "staticwebassets/assets/upload/tech_menu_11.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/tech_menu_12.jpg",
+      "PackagePath": "staticwebassets/assets/upload/tech_menu_12.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/tech_menu_13.jpg",
+      "PackagePath": "staticwebassets/assets/upload/tech_menu_13.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/tech_menu_14.jpg",
+      "PackagePath": "staticwebassets/assets/upload/tech_menu_14.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/tech_menu_15.jpg",
+      "PackagePath": "staticwebassets/assets/upload/tech_menu_15.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/tech_menu_16.jpg",
+      "PackagePath": "staticwebassets/assets/upload/tech_menu_16.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/tech_menu_17.jpg",
+      "PackagePath": "staticwebassets/assets/upload/tech_menu_17.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/tech_menu_18.jpg",
+      "PackagePath": "staticwebassets/assets/upload/tech_menu_18.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/tech_menu_19.jpg",
+      "PackagePath": "staticwebassets/assets/upload/tech_menu_19.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/tech_menu_20.jpg",
+      "PackagePath": "staticwebassets/assets/upload/tech_menu_20.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/tech_video_01.jpg",
+      "PackagePath": "staticwebassets/assets/upload/tech_video_01.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/tech_video_02.jpg",
+      "PackagePath": "staticwebassets/assets/upload/tech_video_02.jpg"
+    },
+    {
+      "Id": "/Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI/wwwroot/assets/upload/tech_video_03.jpg",
+      "PackagePath": "staticwebassets/assets/upload/tech_video_03.jpg"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.TechBlog.WebUI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.TechBlog.WebUI.props",
+      "PackagePath": "build\\TechBlog.WebUI.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.TechBlog.WebUI.props",
+      "PackagePath": "buildMultiTargeting\\TechBlog.WebUI.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.TechBlog.WebUI.props",
+      "PackagePath": "buildTransitive\\TechBlog.WebUI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

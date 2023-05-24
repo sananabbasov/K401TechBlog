@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{6F17D867-94F1-46BD-B239-638B2D7C1295}|https">
+  <MonoDevelop.Ide.ItemProperties.TechBlog.WebUI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TechBlog.WebUI/Program.cs">
+    <Files>
+      <File FileName="TechBlog.WebUI/Views/Shared/_Layout.cshtml" />
+      <File FileName="TechBlog.WebUI/Views/Home/Index.cshtml" Line="22" Column="1" />
+      <File FileName="TechBlog.WebUI/Models/Article.cs" Line="5" Column="6" />
+      <File FileName="TechBlog.WebUI/Models/BaseEntity.cs" Line="8" Column="31" />
+      <File FileName="TechBlog.WebUI/Models/Tag.cs" />
+      <File FileName="TechBlog.WebUI/Models/ArticleTag.cs" Line="4" Column="14" />
+      <File FileName="TechBlog.WebUI/Models/User.cs" Line="6" Column="34" />
+      <File FileName="TechBlog.WebUI/Data/AppDbContext.cs" Line="17" Column="39" />
+      <File FileName="TechBlog.WebUI/Program.cs" Line="11" Column="1" />
+      <File FileName="TechBlog.WebUI/appsettings.json" Line="9" Column="51" />
+      <File FileName="TechBlog.WebUI/Data/GetTime.cs" Line="8" Column="25" />
+      <File FileName="TechBlog.WebUI/Controllers/HomeController.cs" Line="21" Column="37" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TechBlog" expanded="True">
+            <Node name="TechBlog.WebUI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
