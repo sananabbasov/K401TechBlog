@@ -24,7 +24,8 @@ public class HomeController : Controller
         var tags = _context.Tags.ToList();
         HomeVM vm = new()
         {
-
+            HomeArticles = articles,
+            HomeTags = tags
         };
         return View(vm);
     }
