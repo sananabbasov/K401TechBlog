@@ -15,6 +15,13 @@
     <Folder Include="wwwroot\assets\" />
     <Folder Include="Data\" />
     <Folder Include="ViewModels\" />
+    <Folder Include="Areas\" />
+    <Folder Include="Areas\Dashboard\" />
+    <Folder Include="Areas\Dashboard\Controllers\" />
+    <Folder Include="Areas\Dashboard\Views\" />
+    <Folder Include="Areas\Dashboard\Views\Home\" />
+    <Folder Include="Areas\Dashboard\Views\Shared\" />
+    <Folder Include="Areas\Dashboard\Views\Tag\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="7.0.5" />
@@ -33,5 +40,12 @@
   <ItemGroup>
     <None Remove="Data\" />
     <None Remove="ViewModels\" />
+    <None Remove="Areas\" />
+    <None Remove="Areas\Dashboard\" />
+    <None Remove="Areas\Dashboard\Controllers\" />
+    <None Remove="Areas\Dashboard\Views\" />
+    <None Remove="Areas\Dashboard\Views\Home\" />
+    <None Remove="Areas\Dashboard\Views\Shared\" />
+    <None Remove="Areas\Dashboard\Views\Tag\" />
   </ItemGroup>
 </Project>

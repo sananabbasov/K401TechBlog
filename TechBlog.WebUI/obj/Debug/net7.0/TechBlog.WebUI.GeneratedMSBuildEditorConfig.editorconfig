@@ -16,6 +16,30 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/sanan/Desktop/Projects/Compar Academy/K401/C\#/Web/TechBlog/TechBlog.WebUI/Areas/Dashboard/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvRGFzaGJvYXJkL1ZpZXdzL0hvbWUvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sanan/Desktop/Projects/Compar Academy/K401/C\#/Web/TechBlog/TechBlog.WebUI/Areas/Dashboard/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvRGFzaGJvYXJkL1ZpZXdzL1NoYXJlZC9fQWRtaW5MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sanan/Desktop/Projects/Compar Academy/K401/C\#/Web/TechBlog/TechBlog.WebUI/Areas/Dashboard/Views/Tag/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvRGFzaGJvYXJkL1ZpZXdzL1RhZy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sanan/Desktop/Projects/Compar Academy/K401/C\#/Web/TechBlog/TechBlog.WebUI/Areas/Dashboard/Views/Tag/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvRGFzaGJvYXJkL1ZpZXdzL1RhZy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sanan/Desktop/Projects/Compar Academy/K401/C\#/Web/TechBlog/TechBlog.WebUI/Areas/Dashboard/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvRGFzaGJvYXJkL1ZpZXdzL19WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/sanan/Desktop/Projects/Compar Academy/K401/C\#/Web/TechBlog/TechBlog.WebUI/Areas/Dashboard/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvRGFzaGJvYXJkL1ZpZXdzL19WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/sanan/Desktop/Projects/Compar Academy/K401/C\#/Web/TechBlog/TechBlog.WebUI/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

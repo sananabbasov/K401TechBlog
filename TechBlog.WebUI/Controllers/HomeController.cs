@@ -6,6 +6,7 @@ using TechBlog.WebUI.ViewModels;
 
 namespace TechBlog.WebUI.Controllers;
 
+
 public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
