@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using TechBlog.WebUI.Data;
 using TechBlog.WebUI.Models;
@@ -11,6 +12,7 @@ using TechBlog.WebUI.Models;
 namespace TechBlog.WebUI.Areas.Dashboard.Controllers
 {
     [Area("Dashboard")]
+    [Authorize]
     public class TagController : Controller
     {
         private readonly AppDbContext _context;
@@ -24,7 +26,8 @@ namespace TechBlog.WebUI.Areas.Dashboard.Controllers
         // GET: /<controller>/
         public IActionResult Index()
         {
-            return View();
+            var tags = _context.Tags.ToList();
+            return View(tags);
         }
 
         public IActionResult Create()

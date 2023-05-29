@@ -1,18 +1,14 @@
 ﻿<Properties StartupConfiguration="{6F17D867-94F1-46BD-B239-638B2D7C1295}|https">
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.TechBlog.WebUI PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TechBlog.WebUI/Areas/Dashboard/Views/Tag/Create.cshtml">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TechBlog.WebUI/Controllers/AuthController.cs">
     <Files>
-      <File FileName="TechBlog.WebUI/Areas/Dashboard/Views/Tag/Index.cshtml" Line="7" Column="1" />
-      <File FileName="TechBlog.WebUI/Areas/Dashboard/Views/Tag/Create.cshtml" Line="2" Column="34" />
-      <File FileName="TechBlog.WebUI/Models/Tag.cs" Line="4" Column="26" />
-      <File FileName="TechBlog.WebUI/Areas/Dashboard/Controllers/TagController.cs" Line="39" Column="14" />
-      <File FileName="TechBlog.WebUI/Models/Article.cs" Line="1" Column="1" />
-      <File FileName="TechBlog.WebUI/Models/BaseEntity.cs" Line="7" Column="5" />
+      <File FileName="TechBlog.WebUI/Views/Auth/Register.cshtml" />
+      <File FileName="TechBlog.WebUI/Views/_ViewImports.cshtml" />
+      <File FileName="TechBlog.WebUI/Controllers/AuthController.cs" Line="47" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -21,20 +17,23 @@
             <Node name="TechBlog.WebUI" expanded="True">
               <Node name="Areas" expanded="True">
                 <Node name="Dashboard" expanded="True">
-                  <Node name="Controllers" expanded="True" />
                   <Node name="Views" expanded="True">
-                    <Node name="Tag" expanded="True">
-                      <Node name="Create.cshtml" selected="True" />
-                    </Node>
+                    <Node name="Shared" expanded="True" />
                   </Node>
                 </Node>
               </Node>
-              <Node name="Models" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="AuthController.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Auth" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TechBlog.WebUI PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

@@ -24,6 +24,9 @@
     <Folder Include="Areas\Dashboard\Views\Shared\" />
     <Folder Include="Areas\Dashboard\Views\Tag\" />
     <Folder Include="wwwroot\admin\" />
+    <Folder Include="DTOs\" />
+    <Folder Include="Views\Auth\" />
+    <Folder Include="Areas\Dashboard\Views\Article\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="7.0.5" />
@@ -49,5 +52,8 @@
     <None Remove="Areas\Dashboard\Views\Home\" />
     <None Remove="Areas\Dashboard\Views\Shared\" />
     <None Remove="Areas\Dashboard\Views\Tag\" />
+    <None Remove="DTOs\" />
+    <None Remove="Views\Auth\" />
+    <None Remove="Areas\Dashboard\Views\Article\" />
   </ItemGroup>
 </Project>
