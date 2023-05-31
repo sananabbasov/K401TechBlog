@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/sanan/Desktop/Projects/Compar Academy/K401/C#/Web/TechBlog/TechBlog.WebUI
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/sanan/Desktop/Projects/Compar Academy/K401/C\#/Web/TechBlog/TechBlog.WebUI/Areas/Dashboard/Views/Article/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvRGFzaGJvYXJkL1ZpZXdzL0FydGljbGUvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/sanan/Desktop/Projects/Compar Academy/K401/C\#/Web/TechBlog/TechBlog.WebUI/Areas/Dashboard/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXMvRGFzaGJvYXJkL1ZpZXdzL0hvbWUvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
