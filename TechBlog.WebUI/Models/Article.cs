@@ -1,4 +1,6 @@
 ﻿using System;
+using System.ComponentModel.DataAnnotations;
+
 namespace TechBlog.WebUI.Models
 {
 	public class Article : BaseEntity
@@ -10,6 +12,7 @@ namespace TechBlog.WebUI.Models
 		public User User { get; set; }
 		public int Views { get; set; }
 		public string SeoUrl { get; set; }
+		public List<ArticleTag> ArticleTags { get; set; }
 	}
 }
 

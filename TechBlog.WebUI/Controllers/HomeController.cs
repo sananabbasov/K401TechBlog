@@ -1,5 +1,6 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using TechBlog.WebUI.Data;
 using TechBlog.WebUI.Models;
 using TechBlog.WebUI.ViewModels;
@@ -21,12 +22,12 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        var articles = _context.Articles.ToList();
+        var articles = _context.Articles.Include(x=>x.User).Include(z=>z.ArticleTags).ToList();
         var tags = _context.Tags.ToList();
         HomeVM vm = new()
         {
             HomeArticles = articles,
-            HomeTags = tags
+            HomeTags = tags,
         };
         return View(vm);
     }

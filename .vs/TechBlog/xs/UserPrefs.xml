@@ -1,12 +1,16 @@
 ﻿<Properties StartupConfiguration="{6F17D867-94F1-46BD-B239-638B2D7C1295}|https">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.TechBlog.WebUI PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="TechBlog.WebUI/Areas/Dashboard/Controllers/ArticleController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TechBlog.WebUI/Views/Home/Index.cshtml">
     <Files>
-      <File FileName="TechBlog.WebUI/Areas/Dashboard/Controllers/ArticleController.cs" Line="53" Column="27" />
-      <File FileName="TechBlog.WebUI/Areas/Dashboard/Views/Article/Index.cshtml" Line="1" Column="1" />
+      <File FileName="TechBlog.WebUI/Areas/Dashboard/Controllers/ArticleController.cs" Line="46" Column="10" />
+      <File FileName="TechBlog.WebUI/Areas/Dashboard/Views/Article/Create.cshtml" Line="14" Column="29" />
+      <File FileName="TechBlog.WebUI/Models/Article.cs" Line="15" Column="36" />
+      <File FileName="TechBlog.WebUI/Models/ArticleTag.cs" Line="8" Column="14" />
+      <File FileName="TechBlog.WebUI/Models/Tag.cs" Line="4" Column="15" />
+      <File FileName="TechBlog.WebUI/Controllers/HomeController.cs" Line="25" Column="85" />
+      <File FileName="TechBlog.WebUI/Views/Home/Index.cshtml" Line="91" Column="142" />
+      <File FileName="TechBlog.WebUI/ViewModels/HomeVM.cs" Line="8" Column="17" />
+      <File FileName="TechBlog.WebUI/DTOs/RegisterDTO.cs" Line="9" Column="18" />
+      <File FileName="TechBlog.WebUI/Models/User.cs" Line="12" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,9 +19,7 @@
             <Node name="TechBlog.WebUI" expanded="True">
               <Node name="Areas" expanded="True">
                 <Node name="Dashboard" expanded="True">
-                  <Node name="Controllers" expanded="True">
-                    <Node name="ArticleController.cs" selected="True" />
-                  </Node>
+                  <Node name="Controllers" expanded="True" />
                   <Node name="Views" expanded="True">
                     <Node name="Article" expanded="True" />
                   </Node>
@@ -26,8 +28,11 @@
               <Node name="Controllers" expanded="True" />
               <Node name="DTOs" expanded="True" />
               <Node name="Models" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Auth" expanded="True" />
+                <Node name="Home" expanded="True">
+                  <Node name="Index.cshtml" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
@@ -38,4 +43,8 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.TechBlog.WebUI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
